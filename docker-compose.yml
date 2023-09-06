@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  amazons3musicplayer:
+    image: amazons3musicplayer
+    build:
+      context: .
+      dockerfile: ./Dockerfile

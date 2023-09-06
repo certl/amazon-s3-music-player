@@ -1,0 +1,7 @@
+{
+  "AWS_KEY": "",
+  "AWS_SECRET": "",
+  "BUCKET": "",
+  "HTTP_PASSWORD": "",
+  "APCU_CACHE": true
+}
